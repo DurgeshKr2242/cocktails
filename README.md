@@ -1,11 +1,26 @@
-#### React Router Fix
+-------------------
+# Cocktails Website
 
-(Fix)[https://dev.to/dance2die/page-not-found-on-netlify-with-react-router-58mc]
+Cocktails website to display list of all the cocktails along with their details. Developed using cocktails DB api
 
-#### CRA Fix
 
+---------------------
+## Hosted Site here
+
+https://cocktails-11.netlify.app/
+
+-------------------
+## Installation
+
+Install my-project with npm
+
+```bash
+  npm install my-project
+  cd my-project
 ```
+    
+## Screenshots
 
-"build": "CI= react-scripts build",
+![App Screenshot](https://i.imgur.com/j3hm5B2.png)
+![App Screenshot](https://i.imgur.com/QiOzt9T.png)
 
-```
